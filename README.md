@@ -32,5 +32,5 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 * Insaniquarium, Diner Dash, Cake Mania
 * The Elder Scrolls: Morrowind/Oblivion
 * GTA3 vanilla, GTA4 + expansions
-* Ample PS1 and PS2 and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/)
+* Ample PS1 and PS2 and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/))
 * Pokemon Mystery Dungeon Red Rescue Team + Fire/Ruby/Leaf/Emerald
