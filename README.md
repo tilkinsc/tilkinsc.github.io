@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Credible Projects
 
-You can use the [editor on GitHub](https://github.com/tilkinsc/tilkinsc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mine:
+* [Lua Console](https://github.com/tilkinsc/LuaConsole)
+* [OTP Libraries](https://github.com/OTPLibraries)
+* [en.wikibooks PSP_Development](https://en.wikibooks.org/wiki/PSP_Development)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contributions:
+* [PPSSPP](https://github.com/hrydgard/ppsspp) - attempt to make ad hoc PSP->PC->PSP 
+* [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+United States bound. I have been programming for roughly 10+ years as a hobby without school experience, and I prefer to term it `generalist programmer`. My favorite languages are C, Lua, Asm, and Java. While I've done most of my work on Windows, I have experience with the embedded systems PSP, GBA, and DS. I can code in around 15 different language, but I feel most comfortable with probably 10 of them.
 
-```markdown
-Syntax highlighted code block
+You will find I am very pendantic when it comes to formatting of source. I will not use CLANG formatting. I will not. The source files must be clean, tabbed properly, and align correctly without using an ample amount of tabs (never spaces!). Extra whitespace at ends of lines or between first and last parameters in functions make me go crazy.
 
-# Header 1
-## Header 2
-### Header 3
+Makefiles aren't my cup of tea. They are overly verbose and version incompatible most of the time. Simplicity says tell me the dang operating system, and it also says let me control my source directory tree with cross platform commands. However, most people are bad enough at make so its okay to get away with dumping all your compiled files in the src directory. I took the liberty of cobbling together a build script that uses lua. This is where I tell you I am a masochistic programmer - at least I am able to endure long tasks.
 
-- Bulleted
-- List
+My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and spent about 4+ years there. Java is a nice language when you are dealing with complex libraries not suitable for scripts (servers, signed byte processing, string work). I briefly touched many languages during this time too. Some are Actionscript, ASP, PHP, NSIS and C++. I am not a fan of C++ becuase how verbose and hard to read it is, not to mention it breaks some coding formats with modern scripts/programming languages (weird use of new, casting and verbosity of it). I continued experience in PHP and learned some MySQL on the way to making minecraft [bukkit.org](http://bukkit.org/) plugins. I started learning C and wrote a few applications/games for the GBA then PSP. Closing on on today, I started work on OS development which was my intro to assembly followed by programming MIPS for the PSP. GBA is ARM.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tilkinsc/tilkinsc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Favorite Video Games
+* Final Fantasy X/X-2
+* League of Legends
+* Age of Empires II
+* COD: WAW only Zombies especially Maps
+* Diablo 1 and 2
+* Fate
+* Gunz: The Duel (may it RIP)
+* Halo firefight, especially Reach
+* Rollercoaster Tycoon
+* Insaniquarium, Diner Dash, Cake Mania
+* The Elder Scrolls: Morrowind/Oblivion
+* GTA3 vanilla, GTA4 + expansions
+* Ample PS1 and PS2 and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/)
+* Pokemon Mystery Dungeon Red Rescue Team + Fire/Ruby/Leaf/Emerald
