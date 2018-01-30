@@ -8,6 +8,7 @@ Mine:
 Contributions:
 * [PPSSPP](https://github.com/hrydgard/ppsspp) - attempt to make ad hoc PSP->PC->PSP 
 * [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
+* [QRCoder](https://github.com/codebude/QRCoder) - Wiki management, issue management
 
 ## About
 
