@@ -3,6 +3,7 @@
 Mine:
 * [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [OTP Libraries](https://github.com/OTPLibraries)
+* [MIPS Freestanding BareBones Examples](https://github.com/tilkinsc/MipsBareBones)
 * [en.wikibooks PSP_Development](https://en.wikibooks.org/wiki/PSP_Development)
 
 Contributions:
