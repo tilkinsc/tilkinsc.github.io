@@ -22,11 +22,11 @@ Makefiles aren't my cup of tea. They are overly verbose and not dynamic. Simplic
 My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and spent about 4+ years there. Java is a nice language when you are dealing with complex libraries not suitable for scripts (servers, signed byte processing, string work). I briefly touched many languages during this time too. Some are Actionscript, ASP, PHP, NSIS and C++. I continued with PHP and learned some MySQL on the way to making minecraft [bukkit.org](http://bukkit.org/) plugins. I started learning C and wrote a few applications/games for the GBA then PSP after learning OpenGL with [LWJGL](http://lwjgl.org). Closing in on today, I started work on OS development which was my intro to assembly followed by programming MIPS for the PSP then back to OS development.
 
 ## Current Projects (Open/Closed Source) 4/16/2019
-\[Open\] Lua Console
-\[Closed\] MIPS Operating System via QEMU
-\[Closed\] A GBA Toolkit
-\[Closed\] A GB Assembler for z80 Processor with ROM Header support
-\[Closed\] An unnamed sandbox video game
+* \[Open\] Lua Console
+* \[Closed\] MIPS Operating System via QEMU
+* \[Closed\] A GBA Toolkit
+* \[Closed\] A GB Assembler for z80 Processor with ROM Header support
+* \[Closed\] An unnamed sandbox video game
 
 
 ## Favorite Video Games
