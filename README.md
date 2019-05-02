@@ -49,3 +49,9 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 * [GTA3 vanilla, GTA4 + expansions](https://en.wikipedia.org/wiki/Grand_Theft_Auto)
 * Ample PS1, PS2, and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/))
 * [Pokemon Mystery Dungeon Red Rescue Team + Fire/Ruby/Leaf/Emerald/TCG for GBC](https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)
+
+## Activity Log
+____
+> [05/02/2019] - Helped https://github.com/HFO4/gameboy.live correcting their English in README.md
+> [05/01/2019] - z80 assembler has now evolved past emitting only the header
+____
