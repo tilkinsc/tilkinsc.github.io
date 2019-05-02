@@ -52,6 +52,9 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 
 ## Activity Log
 ____
+
 > [05/02/2019] - Helped https://github.com/HFO4/gameboy.live correcting their English in README.md
+
 > [05/01/2019] - z80 assembler has now evolved past emitting only the header
+
 ____
