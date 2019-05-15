@@ -53,6 +53,8 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 ## Activity Log
 ____
 
+> _[05/10/2019]_ - LuaConsole is now fully isolated between Windows/Linux/Mac. Mac build continues to fail due to lack of tooling on travis.ci (lack of version-released tooling). However, should fully work on an actual box with an updated gcc toolchain. Objcopy is mandatory. Setting up windows build in progress.
+
 > _[05/02/2019]_ - Helped https://github.com/HFO4/gameboy.live correcting their English in README.md
 
 > _[05/01/2019]_ - z80 assembler has now evolved past emitting only the header
