@@ -55,6 +55,10 @@ ____
 
 > _[05/10/2019]_ - LuaConsole is now fully isolated between Windows/Linux/Mac. Mac build continues to fail due to lack of tooling on travis.ci (lack of version-released tooling). However, should fully work on an actual box with an updated gcc toolchain. Objcopy is mandatory. Setting up windows build in progress.
 
+> _[05/10/2019]_ - CPO library now in z80 assembler, with noticable benefits.
+
+> _[05/09/2019]_ - Bug fixed my personal CPO library. It's a library which hastens and optimizes the switching and flow process of command line applications. It also contains file pointers and stdin so the user doesn't have to buffer load anything, especially stdin. And finally you can switch with whatever operators - / -- you want as well as map many names to one specific function.
+
 > _[05/02/2019]_ - Helped https://github.com/HFO4/gameboy.live correcting their English in README.md
 
 > _[05/01/2019]_ - z80 assembler has now evolved past emitting only the header
