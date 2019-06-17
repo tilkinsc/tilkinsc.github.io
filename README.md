@@ -8,9 +8,15 @@ Mine:
 
 Contributions:
 * [gameboy.live](https://github.com/HFO4/gameboy.live/pull/5) - readme management
-* [PPSSPP](https://github.com/hrydgard/ppsspp) - attempt to make ad hoc PSP->PC->PSP
+* [Brisk](https://github.com/briskml/brisk/pull/50) - big readme management
+* [Mesh](https://github.com/plasma-umass/Mesh/commit/a901069b25b3b363f0116e23bf91def6fe08d804) - readme management
+* [rcedit](https://github.com/electron/rcedit/commit/ca7064eb010f2e1a9b019891be30a3512a0c6900) - readme management
+* [CirnOSExamples](https://github.com/Mikestylz/CirnOSExamples/issues/1) - example enhancements
+* [CirnOS](https://github.com/Mikestylz/CirnOS) - procedural enhancements
+* [PPSSPP](https://github.com/hrydgard/ppsspp) - attempting to make ad hoc PSP->PC->PSP, batch file edits
 * [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
-* [QRCoder](https://github.com/codebude/QRCoder) - Wiki management, issue management
+* [Freeablo](https://github.com/wheybags/freeablo) - issue management, code help
+* [QRCoder](https://github.com/codebude/QRCoder) - wiki management, issue management
 
 ## About
 
