@@ -2,8 +2,12 @@
 
 Mine:
 * [Tilkinsc's OpenGL Tutorial](https://github.com/tilkinsc/TCsOpenGLTut) - WIP
+* [GBHeaderView](https://github.com/tilkinsc/gbheaderview)
+* [OpenLual](https://github.com/tilkinsc/openlual)
 * [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [OTP Libraries](https://github.com/OTPLibraries)
+* [Java Plugin Example](https://github.com/tilkinsc/MyJavaPluginExample)
+* [DDS Loader](https://github.com/tilkinsc/DDSLoader)
 * [MIPS Freestanding BareBones Examples](https://github.com/tilkinsc/MipsBareBones)
 * [en.wikibooks PSP_Development](https://en.wikibooks.org/wiki/PSP_Development) - [Repo](https://github.com/tilkinsc/PSPProjects)
 
