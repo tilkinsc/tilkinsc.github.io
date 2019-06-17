@@ -7,6 +7,7 @@ Mine:
 * [en.wikibooks PSP_Development](https://en.wikibooks.org/wiki/PSP_Development) - [Repo](https://github.com/tilkinsc/PSPProjects)
 
 Contributions:
+* [gameboy.live](https://github.com/HFO4/gameboy.live/pull/5) - readme management
 * [PPSSPP](https://github.com/hrydgard/ppsspp) - attempt to make ad hoc PSP->PC->PSP
 * [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [QRCoder](https://github.com/codebude/QRCoder) - Wiki management, issue management
