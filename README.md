@@ -39,7 +39,7 @@ My learning never stops. I am practicing digital art as well as digital sound, w
 
 I also stream irregularly.
 
-Please email me at ctilkins@mail.com if you have any questions. Support me on [https://www.patreon.com/PoliteKiwi](Patreon)! I am looking for a remote job! Ask me for my resume.
+Please email me at ctilkins@mail.com if you have any questions. Support me on [Patreon](https://www.patreon.com/PoliteKiwi)! I am looking for a remote job! Ask me for my resume.
 
 ## Current Projects (Open/Closed Source) 4/16/2019
 * \[Open\] Lua Console
