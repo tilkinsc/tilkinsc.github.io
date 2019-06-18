@@ -78,14 +78,13 @@ Libraries:
 
 ## Favorite Video Games
 * [Monster Hunter: World](https://en.wikipedia.org/wiki/Monster_Hunter:_World)
-* [Age of Empires 2](https://en.wikipedia.org/wiki/Age_of_Empires_II)
+* [Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)
 * [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology)
 * [The Sims 1, 2, 4](https://en.wikipedia.org/wiki/The_Sims)
 * [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
 * [Final Fantasy X/X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X)
 * [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
 * [Any Metal Gear](https://en.wikipedia.org/wiki/Metal_Gear_Solid)
-* [Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)
 * [COD: WAW](https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War) only Zombies
 * [Diablo 1 and 2, not 3](https://en.wikipedia.org/wiki/Diablo_(series))
 * [Fate](https://en.wikipedia.org/wiki/Fate_(video_game))
@@ -97,6 +96,7 @@ Libraries:
 * [GTA3 vanilla, GTA4 + expansions](https://en.wikipedia.org/wiki/Grand_Theft_Auto)
 * Ample PS1, PS2, and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/))
 * [Pokemon Mystery Dungeon Red Rescue Team + Fire/Ruby/Leaf/Emerald/TCG for GBC](https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)
+* This bullet point is homage to the games I haven't listed
 
 ## Activity Log
 ____
