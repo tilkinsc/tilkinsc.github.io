@@ -37,7 +37,7 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 
 My learning never stops. I am practicing digital art as well as digital sound, whether it comes to sound effects or music. It is part of the indy game dev theme. I have a certain interest in pixel art as well as simplex and complex sound effect creation.
 
-I also stream irregularly.
+I am a freelancer and also stream irregularly on twitch.
 
 Please email me at ctilkins@mail.com if you have any questions. Support me on [Patreon](https://www.patreon.com/PoliteKiwi)! I am looking for a remote job! Ask me for my resume.
 
@@ -97,22 +97,3 @@ Libraries:
 * Ample PS1, PS2, and PSP games (especially [Monster Hunter Freedom Unite](https://hunstermonter.net/))
 * [Pokemon Mystery Dungeon Red Rescue Team + Fire/Ruby/Leaf/Emerald/TCG for GBC](https://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29)
 * This bullet point is homage to the games I haven't listed
-
-## Activity Log
-____
-
-> _[06/15/2019]_ - Started work on a command line program targeted at windows which allows me to spell check words from multiple dictionaries. It uses the CPO library. It is an example of the power it contains in practice, where non-standard argument passing is a thing. Also updated the CPO library to return a new status of current argument where the argument is empty, which supports stdin. Updated LuaConsole accordingly to start enabling stdio passing again.
-
-> _[06/14/2019]_ - LuaConsole now implements my CPO library. The CPO library has been updated to bring extensibility by being able to copy over the saved data for later in-program use. It was a required change to adhere to LuaConsole's function calling, as it didn't have the symbols it needed at the time. I also overhauled how switch parameters worked in LuaConsole to adhere with the CPO library. Needless to say, it is more performant and better looking to the eyes.
-
-> _[05/10/2019]_ - LuaConsole is now fully isolated between Windows/Linux/Mac. Mac build continues to fail due to lack of tooling on travis.ci (lack of version-released tooling). However, should fully work on an actual box with an updated gcc toolchain. Objcopy is mandatory. Setting up windows build in progress.
-
-> _[05/10/2019]_ - CPO library now in z80 assembler, with noticable benefits.
-
-> _[05/09/2019]_ - Bug fixed my personal CPO library. It's a library which hastens and optimizes the switching and flow process of command line applications. It also contains file pointers and stdin so the user doesn't have to buffer load anything, especially stdin. And finally you can switch with whatever operators - / -- you want as well as map many names to one specific function.
-
-> _[05/02/2019]_ - Helped https://github.com/HFO4/gameboy.live correcting their English in README.md
-
-> _[05/01/2019]_ - z80 assembler has now evolved past emitting only the header
-
-____
