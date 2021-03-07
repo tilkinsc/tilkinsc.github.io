@@ -1,17 +1,21 @@
 ## Credible Projects
 
 Mine:
-* [Tilkinsc's OpenGL Tutorial](https://github.com/tilkinsc/TCsOpenGLTut) - WIP
+* [Lua Console](https://github.com/tilkinsc/LuaConsole)
+* [KiwiItemInfo](https://github.com/tilkinsc/KiwiItemInfo)
 * [GBHeaderView](https://github.com/tilkinsc/gbheaderview)
 * [OpenLual](https://github.com/tilkinsc/openlual)
-* [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [OTP Libraries](https://github.com/OTPLibraries)
-* [Java Plugin Example](https://github.com/tilkinsc/MyJavaPluginExample)
 * [DDS Loader](https://github.com/tilkinsc/DDSLoader)
 * [MIPS Freestanding BareBones Examples](https://github.com/tilkinsc/MipsBareBones)
 * [en.wikibooks PSP_Development](https://en.wikibooks.org/wiki/PSP_Development) - [Repo](https://github.com/tilkinsc/PSPProjects)
+* [Tilkinsc's OpenGL Tutorial](https://github.com/tilkinsc/TCsOpenGLTut)
+* [Java Plugin Example](https://github.com/tilkinsc/MyJavaPluginExample)
 
 Contributions:
+* [AAEmu](https://github.com/AAEmu/AAEmu/pull/260) - C#/JSON code changes
+* [Appveyor](https://github.com/appveyor/website/pull/787) - website text corrections
+* [OpenXR SDK](https://github.com/KhronosGroup/OpenXR-SDK-Source/issues/236) - testing reliability of code
 * [gameboy.live](https://github.com/HFO4/gameboy.live/pull/5) - readme management
 * [Brisk](https://github.com/briskml/brisk/pull/50) - big readme management
 * [Mesh](https://github.com/plasma-umass/Mesh/commit/a901069b25b3b363f0116e23bf91def6fe08d804) - readme management
@@ -22,6 +26,7 @@ Contributions:
 * [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [Freeablo](https://github.com/wheybags/freeablo) - issue management, code help
 * [QRCoder](https://github.com/codebude/QRCoder) - wiki management, issue management
+and more!
 
 ## About
 
@@ -52,23 +57,23 @@ Please email me at ctilkins@mail.com if you have any questions. Support me on [P
 Languages:
 * C / C++ / C# / Java
 * Bash / Batch
-* Lua / Python / JavaScript
+* Lua / Python / JavaScript / Ruby
 * HTML / PHP / CSS
 * GAS / NASM : MIPS / ARM / x86
-* Make / NSIS
+* CMake / Make / NSIS
 * JSON / YAML / Config (Java)
 
 Tools:
-* Notepad++ / Eclipse / CodeBlocks / MSVS / SharpDevelop
-* NPM / PIP
-* GCC / MSVS CMD Line / MSYS
+* MinGW64 / LLVM / GNU GCC
+* Notepad++ / Eclipse / CodeBlocks / MSVS / SharpDevelop / VSC
+* NPM / PIP / Docker
+* GCC / MSVS Buildtools / MSYS
 * Paint.NET / Photoshop / Krita
 * Audacity / Blender
 * HexD / GHIDRA / qemu
 * clink / GNU Win32
 
 To learn:
-* Ruby
 * Node.js (already know a bit)
 * SVN (git-like alternative)
 * Android Programming
