@@ -57,7 +57,7 @@ Please email me at ctilkins@mail.com if you have any questions. Support me on [P
 Languages:
 * C / C++ / C# / Java
 * Bash / Batch
-* Lua / Python / JavaScript / Ruby
+* Lua / Python / JavaScript / NodeJS / Ruby
 * HTML / PHP / CSS
 * GAS / NASM : MIPS / ARM / x86
 * CMake / Make / NSIS
@@ -74,7 +74,6 @@ Tools:
 * clink / GNU Win32
 
 To learn:
-* Node.js (already know a bit)
 * SVN (git-like alternative)
 * Android Programming
 
