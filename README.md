@@ -1,4 +1,4 @@
-**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. Please ask before using my email to referral me. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
+**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. I am willing to relocate. Ready to work immediately. Will work fully remote. Please ask before using my email to referral me. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
 
 ## Credible Projects
 
@@ -44,7 +44,7 @@ My learning never stops. I am practicing digital art as well as digital sound, w
 
 Please email me at `ctilkins@mail.com` if you have any questions.  
 Support me on [Patreon](https://www.patreon.com/PoliteKiwi)!  
-I am looking for a remote job! Ask me for my resume.  
+I am open for a remote job! Ask me for my resume.  
 
 ## Current Projects (Open/Closed Source) 4/16/2019
 * \[Open\] Lua Console
