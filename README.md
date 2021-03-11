@@ -1,4 +1,4 @@
-**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. I am willing to relocate. Ready to work immediately. Will work fully remote. Please ask before using my email to referral me. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
+**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. I am willing to relocate. Ready to work immediately. Will work fully remote. Please ask before using my email to refer me to other recruiters. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
 
 ## Credible Projects
 
