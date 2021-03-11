@@ -1,6 +1,8 @@
 ## Credible Projects
 
-Mine:
+**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. Please ask before using my email to referral me. 
+
+Mine: *Not fully Comprehensive*
 * [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [KiwiItemInfo](https://github.com/tilkinsc/KiwiItemInfo)
 * [GBHeaderView](https://github.com/tilkinsc/gbheaderview)
@@ -12,7 +14,7 @@ Mine:
 * [Tilkinsc's OpenGL Tutorial](https://github.com/tilkinsc/TCsOpenGLTut)
 * [Java Plugin Example](https://github.com/tilkinsc/MyJavaPluginExample)
 
-Contributions:
+Contributions: *Not fully Comprehensive*
 * [AAEmu](https://github.com/AAEmu/AAEmu/pull/260) - C#/JSON code changes
 * [Appveyor](https://github.com/appveyor/website/pull/787) - website text corrections
 * [OpenXR SDK](https://github.com/KhronosGroup/OpenXR-SDK-Source/issues/236) - testing reliability of code
@@ -26,25 +28,23 @@ Contributions:
 * [LuaJIT](https://luajit.org) - bug fix, [Lua Console](https://github.com/tilkinsc/LuaConsole)
 * [Freeablo](https://github.com/wheybags/freeablo) - issue management, code help
 * [QRCoder](https://github.com/codebude/QRCoder) - wiki management, issue management
-and more!
+* and many more!
 
 ## About
 
-United States bound. I have been programming for roughly 11+ years as a hobby without university or job experience, and I prefer to term it `Generalist Programmer`. My favorite languages are C, C++, Lua, Asm (mips), and Java. I've done most of my work on Windows with linux VM support, if needed. I have experience with the embedded systems: RBPI3+, PSP, GBA, and DS. I can code in over 15 different languages, but I feel most comfortable with probably 10 of them.
+United States bound. I have been programming for roughly 12+ years as a hobby without university or job experience, and I prefer to term it `Generalist Programmer`. I sometimes call it `Programming Specialist`. My favorite languages are C, C++, C#, Lua, Asm (mips), and Java. I've done most of my work on Windows with Linux VM support, if needed. I have experience with the embedded systems: RBPI3+, PSP, GBA, and DS. I can code in over 15 different languages, but I feel most comfortable with probably 10 of them. Someday I want to move to being pure Linux, but my love of video games keeps me away.
 
-I never went to school for anything IT / Computer Science. I do have a certification that says I know how to setup networks (advancedly), build computers, fix and use printers, exercise physical security, manage storage media, and some other things that require driver and IT-support skills. However, I am more of a software lover than a hardware one.
+I never went to school for anything IT / Computer Science. I do have a certification that says I know how to setup networks (advancedly), build computers, fix and use printers, exercise physical security, manage storage media, and some other things that require driver and IT-support skills. However, I am more of a software lover than a hardware one. That doesn't mean I haven't leanred electric engineering! Embedded software is neat.
 
-You will find I am very pedantic when it comes to formatting of my source. I will not use CLANG formatting. I will not. The source files must be clean, tabbed properly, and align correctly without using an ample amount of tabs (never spaces!). Extra whitespace on ends of lines or between first and last parameters in functions make me go crazy. The tab standard is 4 spaces. I always enjoy helping repos who aren't native English translate or fix up their readmes.
+You will find I am very pedantic when it comes to formatting of my source. I will not use CLANG formatting. I will not. The source files must be clean, tabbed properly, and align correctly without using an accurate amount of tabs (never spaces!). Extra whitespace on ends of lines or between first and last parameters in functions make me go crazy. The tab standard is 4 spaces. I never skip over misspellings, unless I am writing huge amounts of text that requires proof-reading. I always enjoy helping repos who aren't native English translate or fix up their readmes. I speak to be correct in any claims and my comments should reflect that. If I am lying, I have been lied to. 
 
-Makefiles aren't my cup of tea. They are overly verbose and not dynamic. Simplicity says tell me the operating system, and it also says let me control my source directory tree with cross platform commands. However, most people are bad enough at make so its okay to get away with dumping all your compiled files in the src directory, I guess. I took the liberty of cobbling together a build script that uses lua. This is where I tell you I am a masochistic programmer - at least I am able to endure long tasks. I reap the benefits of it though :)
-
-My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and spent about 4+ years there. Java is a nice language when you are dealing with complex libraries not suitable for scripts (servers, signed byte processing, string work). I briefly touched many languages during this learning time too. Some are Actionscript, ASP, PHP, NSIS and C++. I continued with PHP and learned some MySQL on the way to making minecraft [bukkit.org](http://bukkit.org/) plugins. I started learning C and wrote a few applications/games for the GBA then PSP all after learning OpenGL+OpenAL with [LWJGL](http://lwjgl.org). Closing in on today, I started work on OS development which was my intro to assembly followed by programming MIPS for the PSP then back to OS development.
+My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and spent about 4+ years there. Java is a nice language when you are dealing with complex libraries not suitable for scripts (servers, signed byte processing, string work). I briefly touched many languages during this learning time too. Some are Actionscript, ASP, PHP, NSIS and C++. I continued with PHP and learned some MySQL on the way to making minecraft [bukkit.org](http://bukkit.org/) plugins. I started learning C and wrote a few applications/games for the GBA then PSP all after learning OpenGL+OpenAL with [LWJGL](http://lwjgl.org). I started work on OS development which was my intro to assembly followed by programming MIPS for the PSP then back to OS development. Today I am at work on personal projects.
 
 My learning never stops. I am practicing digital art as well as digital sound, whether it comes to sound effects or music. It is part of the indy game dev theme. I have a certain interest in pixel art as well as simplex and complex sound effect creation.
 
-I am a freelancer and also stream irregularly on twitch.
-
-Please email me at ctilkins@mail.com if you have any questions. Support me on [Patreon](https://www.patreon.com/PoliteKiwi)! I am looking for a remote job! Ask me for my resume.
+Please email me at `ctilkins@mail.com` if you have any questions.  
+Support me on [Patreon](https://www.patreon.com/PoliteKiwi)!  
+I am looking for a remote job! Ask me for my resume.  
 
 ## Current Projects (Open/Closed Source) 4/16/2019
 * \[Open\] Lua Console
@@ -54,38 +54,78 @@ Please email me at ctilkins@mail.com if you have any questions. Support me on [P
 * \[Closed\] An unnamed sandbox video game
 
 ## Proficiencies
-Languages:
+Proficient Languages:
 * C / C++ / C# / Java
-* Bash / Batch
-* Lua / Python / JavaScript / NodeJS / Ruby
-* HTML / PHP / CSS
-* GAS / NASM : MIPS / ARM / x86
+* HTML / PHP / CSS / ASP.NET / JavaScript / Ruby
+* Lua / Python 2 & latest / NodeJS / Go
+* GNU GAS / NASM (MIPS / ARM64 / x86 / Zilog)
+* Shell / Bash / Batch / PowerShell
 * CMake / Make / NSIS
-* JSON / YAML / Config (Java)
+* JSON / YAML / INI / XML / Other Config Variants
+* SQL
+* And many more!
+
+Inproficient Languages:
+* Rust / Objective-C / D / Groovy / COBOL
+* TypeScript
+* R / Matlab
+* Swift / Kotlin / Android Java
+* Visual Basic
+* Scala / Lisp / Scheme / Erlang / Scala / Haskell / Pascal / Clojure
+* Arduino / Dart
+* And many more!
+
+Relational Databases:
+* MySQL
+* MariaDB
+* SQLite
+* PostgreSQL
 
 Tools:
+* Windows / Linux
+* SSH / RDP
 * MinGW64 / LLVM / GNU GCC
-* Notepad++ / Eclipse / CodeBlocks / MSVS / SharpDevelop / VSC
-* NPM / PIP / Docker
+* MSVS / VSCode / NetBeans / Eclipse / Notepad++ / VIM / SharpDevelop / CodeBlocks
+* GIT / NPM / Yarn / PIP / Docker / LuaRocks / apt / dpkg
+* TravisCI / Appveyor / GithubCI
 * GCC / MSVS Buildtools / MSYS
 * Paint.NET / Photoshop / Krita
 * Audacity / Blender
 * HexD / GHIDRA / qemu
 * clink / GNU Win32
+* Full Microsoft Office / Open Office
+* Azure / AWS(experience, not proficient)
+* Bootstrap
+* Dreamweaver
+* And many more!
 
 To learn:
 * SVN (git-like alternative)
 * Android Programming
 
 Libraries:
-* Too many to list, ask me.
+* JSON / XML parsers & writers
+* Logging APIs
+* Testing APIs
+* Network APIs
+* Excel parsers & writers
+* PDF writers
+* Email APIs
+* Cryptography APIs
+* Serialization APIs
+* Alternate Standard Libraries
+* Native Implementations
+* React / Spring / Qt
+* And many more!
 
 ## Favorite Video Games
+* [World War Z](https://en.wikipedia.org/wiki/World_War_Z_(2019_video_game))
 * [Monster Hunter: World](https://en.wikipedia.org/wiki/Monster_Hunter:_World)
 * [Age of Empires II](https://en.wikipedia.org/wiki/Age_of_Empires_II)
 * [Age of Mythology](https://en.wikipedia.org/wiki/Age_of_Mythology)
 * [The Sims 1, 2, 4](https://en.wikipedia.org/wiki/The_Sims)
 * [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)
+* [Final Fantasy XII/XII-2](https://en.wikipedia.org/wiki/Final_Fantasy_XIII)
 * [Final Fantasy X/X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X)
 * [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends)
 * [Any Metal Gear](https://en.wikipedia.org/wiki/Metal_Gear_Solid)
