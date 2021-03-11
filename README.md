@@ -1,6 +1,6 @@
-## Credible Projects
-
 **Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. Please ask before using my email to referral me. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
+
+## Credible Projects
 
 Mine: *Not fully Comprehensive*
 * [Lua Console](https://github.com/tilkinsc/LuaConsole)
