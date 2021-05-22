@@ -1,4 +1,3 @@
-**Recruiters:** Feel free to send me an offer at `ctilkins@mail.com` in English detailing the job. Ask me for my resume. I am willing to relocate. Ready to work immediately. Will work fully remote. Please ask before using my email to refer me to other recruiters. If a requirement of the job is not met, I am willing to put full effort into practicing and learning the language. I am well aware of the languages I don't know and their intended usage and can even tell you why they exist.
 
 ## Credible Projects
 
@@ -42,8 +41,6 @@ My first coding practices were HTML, CSS, and JavaScript. I moved on to Java and
 
 My learning never stops. I am practicing digital art as well as digital sound, whether it comes to sound effects or music. It is part of the indy game dev theme. I have a certain interest in pixel art as well as simplex and complex sound effect creation.
 
-Please email me at `ctilkins@mail.com` if you have any questions.  
-Support me on [Patreon](https://www.patreon.com/PoliteKiwi)!  
 I am open for a remote job! Ask me for my resume.  
 
 ## Current Projects (Open/Closed Source) 4/16/2019
