@@ -53,24 +53,24 @@ I am open for a remote job! Ask me for my resume.
 ## Proficiencies
 Proficient Languages:
 * C / C++ / C# / Java
-* HTML / PHP / CSS / ASP.NET / JavaScript / Ruby
-* Lua / Python 2 & latest / NodeJS / Go
+* HTML / PHP / CSS3 / SASS / LESS / ASP.NET / Ruby
+* Javascript / TypeScript (Babel, TSC)
+* Lua / Python 2 & Python 3 / NodeJS / Go
 * GNU GAS / NASM (MIPS / ARM64 / x86 / Zilog)
 * Shell / Bash / Batch / PowerShell
 * CMake / Make / NSIS
 * JSON / YAML / INI / XML / Other Config Variants
 * SQL
-* And many more!
 
 Inproficient Languages:
-* Rust / Objective-C / D / Groovy / COBOL
-* TypeScript
+* Rust
+* Objective-C / D / Groovy / COBOL
 * R / Matlab
 * Swift / Kotlin / Android Java
 * Visual Basic
-* Scala / Lisp / Scheme / Erlang / Scala / Haskell / Pascal / Clojure
+* Scala / Lisp / Scheme / Erlang / Haskell
+* Pascal / Clojure
 * Arduino / Dart
-* And many more!
 
 Relational Databases:
 * MySQL
@@ -80,19 +80,19 @@ Relational Databases:
 
 Tools:
 * Windows / Linux
-* SSH / RDP
+* Docker
+* GIT / NPM / Yarn / PIP / Docker / LuaRocks / apt / dpkg
 * MinGW64 / LLVM / GNU GCC
 * MSVS / VSCode / NetBeans / Eclipse / Notepad++ / VIM / SharpDevelop / CodeBlocks
-* GIT / NPM / Yarn / PIP / Docker / LuaRocks / apt / dpkg
-* TravisCI / Appveyor / GithubCI
 * GCC / MSVS Buildtools / MSYS
+* TravisCI / Appveyor / GithubCI
+* SSH / RDP
 * Paint.NET / Photoshop / Krita
 * Audacity / Blender
 * HexD / GHIDRA / qemu
 * clink / GNU Win32
 * Full Microsoft Office / Open Office
-* Azure / AWS(experience, not proficient)
-* Bootstrap
+* Azure / AWS (experience, not proficient)
 * Dreamweaver
 * And many more!
 
@@ -101,9 +101,14 @@ To learn:
 * Android Programming
 
 Libraries:
+* React / Vue.js
+* AngularJS / AJAX / Bootstrap / jQuery / Express
+* Spring / Qt
+* .NET & .NET Core
+* WPF & WCF
 * JSON / XML parsers & writers
-* Logging APIs
 * Testing APIs
+* Logging APIs
 * Network APIs
 * Excel parsers & writers
 * PDF writers
@@ -112,8 +117,7 @@ Libraries:
 * Serialization APIs
 * Alternate Standard Libraries
 * Native Implementations
-* React / Spring / Qt
-* And many more!
+and many more!
 
 ## Favorite Video Games
 * [World War Z](https://en.wikipedia.org/wiki/World_War_Z_(2019_video_game))
